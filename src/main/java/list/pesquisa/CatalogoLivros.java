@@ -16,7 +16,7 @@ import java.util.List;
 public class CatalogoLivros {
     private List<Livro> livroList;
 
-    //iniciando uma lista vazia
+    //iniciando uma lista vazia.
     public CatalogoLivros() {
         this.livroList = new ArrayList<>();
     }
