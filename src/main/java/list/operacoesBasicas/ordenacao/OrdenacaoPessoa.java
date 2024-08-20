@@ -1,4 +1,4 @@
-package main.java.list.ordenacao;
+package main.java.list.operacoesBasicas.ordenacao;
 
 import java.util.*;
 

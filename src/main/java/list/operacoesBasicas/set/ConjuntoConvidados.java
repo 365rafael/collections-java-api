@@ -1,6 +1,4 @@
-package main.java.list.OperacoesBasicas.set;
-
-import main.java.list.pesquisa.CatalogoLivros;
+package main.java.list.operacoesBasicas.set;
 
 import java.util.HashSet;
 import java.util.Set;

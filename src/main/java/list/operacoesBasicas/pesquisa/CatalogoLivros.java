@@ -1,4 +1,4 @@
-package main.java.list.pesquisa;
+package main.java.list.operacoesBasicas.pesquisa;
 
 import java.util.ArrayList;
 import java.util.List;
